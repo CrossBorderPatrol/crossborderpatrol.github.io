@@ -1,10 +1,14 @@
 ## Welcome to the CBP - Cross-Border Patrol website!
 
-CBP provides a safe, encrypted, standardised, globalised tool for **both** data requests and submissions to improve collaboration between regulators, law enforcement and private sector.
+<p align="center">
+CBP provides a safe, encrypted, standardised, globalised tool for both data requests and submissions to improve collaboration between regulators, law enforcement and private sector.
+  </p>
 
 ### It takes a network to beat a network.
 
-![Team Cartoon](/techsprintteamcartoon.jpg | width=10)
+<p align="center">
+<img src="/techsprintteamcartoon.jpg" width="300" align="center"> 
+</p>
 
 #### Team :guardsman: :cop: :shipit:  
 > [Ryan Balfanz](https://www.linkedin.com/in/ryanbalfanz/) 
