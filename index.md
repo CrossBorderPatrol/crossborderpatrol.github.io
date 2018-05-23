@@ -6,7 +6,7 @@ CBP provides a safe, encrypted, standardised, globalised tool for both data requ
 
 ### It takes a network to beat a network.
 
-<img src="/tenor.gif" width="100" align="center"> 
+<img src="/tenor.gif" width="200" align="center"> 
 
 #### Team :guardsman: :cop: :shipit:  
 > [Ryan Balfanz](https://www.linkedin.com/in/ryanbalfanz/) 
