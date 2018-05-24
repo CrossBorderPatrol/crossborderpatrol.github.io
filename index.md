@@ -6,7 +6,7 @@ CBP provides a safe, encrypted, standardised, globalised tool for both data requ
 
 ### It takes a network to beat a network.
 
-Find the CBP presentation from the 2018 FCA techsprint [here](https://docs.google.com/presentation/d/17S7UZ3xqSholYlYIss0rQ_ukvma2TNjLSHNMfstJ-AQ/edit?usp=sharing).
+Our slide deck presentation from the 2018 [FCA techsprint](https://www.fca.org.uk/events/techsprints/aml-financial-crime-international-techsprint) is available [here](https://docs.google.com/presentation/d/17S7UZ3xqSholYlYIss0rQ_ukvma2TNjLSHNMfstJ-AQ/edit?usp=sharing).
 
 Find the active and accessible CBP app [here](https://cpbapp.herokuapp.com/).
 
