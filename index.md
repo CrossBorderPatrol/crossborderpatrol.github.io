@@ -2,9 +2,13 @@
 
 <p align="center">
 CBP provides a safe, encrypted, standardised, globalised tool for both data requests and submissions to improve collaboration between regulators, law enforcement and private sector.
-  </p>
+</p>
 
 ### It takes a network to beat a network.
+
+Find the CBP presentation from the 2018 FCA techsprint [here](https://docs.google.com/presentation/d/17S7UZ3xqSholYlYIss0rQ_ukvma2TNjLSHNMfstJ-AQ/edit?usp=sharing).
+
+Find the active and accessible CBP app [here](https://cpbapp.herokuapp.com/).
 
 <img src="/tenor.gif" width="200" align="center"> 
 
