@@ -33,7 +33,7 @@ Find the active and accessible CBP app [here](https://cpbapp.herokuapp.com/).
 
 > [Bernhard Altendorfer](https://www.linkedin.com/in/bernhard-altendorfer-380b6897/) 
 
-> [Stephen Hardy](https://www.linkedin.com/in/stephen-hardy-4ba0431/) 
+> [Dr Stephen Hardy](https://www.linkedin.com/in/stephen-hardy-4ba0431/) 
 
 <p align="center">
 <img src="/techsprintteamcartoon.jpg" width="300" align="center"> 
